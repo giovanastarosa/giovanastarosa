@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @giovanastarosa
+- 👀 I’m interested in  aprender sobre programaçao
+- 🌱 I’m currently learn a  programar no github
